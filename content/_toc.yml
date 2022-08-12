@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: exercises/Python
+  sections:
+  - file: exercises/Python-tutorial
+- file: exercises/data-analysis
+  sections:
+  - file: exercises/Histogram
