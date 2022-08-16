@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : Workshops  # The title of the book. Will be placed in the left navbar.
+title                       : Python and Jupyter  # The title of the book. Will be placed in the left navbar.
 author                      : HIP Education and Open Data Team  # The author of the book
 copyright                   : "2022"  # Copyright year to be placed in the footer
 logo                        : images/logo.png  # A path to the book logo
@@ -46,7 +46,7 @@ html:
     </div>
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  baseurl                   : "https://opendata-education.github.io/Workshops/intro.html"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl                   : "https://opendata-education.github.io/en_Python-and-Jupyter/intro.html"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis              : false
     utterances              : false
@@ -67,7 +67,7 @@ launch_buttons:
   colab_url                 : https://colab.research.google.com # The URL of Google Colab (e.g., https://colab.research.google.com)
 
 repository:
-  url                       : https://github.com/opendata-education/en_Workshops  # The URL to your book's repository
+  url                       : https://github.com/opendata-education/en_Python-and-Jupyter  # The URL to your book's repository
   path_to_book              : "content"  # A path to your book's folder, relative to the repository root.
   branch                    : "main"  # Which branch of the repository should be used when creating links
 
